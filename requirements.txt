@@ -1,0 +1,15 @@
+boto
+google_compute_engine
+requests
+pytest
+mo-future
+mo-kwargs>=1.7
+mo-logs
+mo-times
+mo-threads>=1.7
+jx_python
+toposort
+whatthepatch
+flask
+beautifulsoup4
+
